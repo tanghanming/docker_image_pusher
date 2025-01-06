@@ -1,4 +1,4 @@
 nginx
-build-image/cross:latest
+k8s.gcr.io/build-image/cross:latest
 --platform=linux/arm64 calico/node:v3.19.4
 
