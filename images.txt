@@ -1,4 +1,4 @@
 nginx
-build-image/corss:latest
+build-image/cross:latest
 --platform=linux/arm64 calico/node:v3.19.4
 
