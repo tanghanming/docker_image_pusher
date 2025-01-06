@@ -1,4 +1,6 @@
 nginx
-k8s.gcr.io/build-image/cross:v1.15.5-1
+k8s.gcr.io/build-image/kube-cross:v1.15.5-1
+k8s.gcr.io/build-image/go-runner:buster-v2.2.2
+k8s.gcr.io/build-image/debian-iptables:buster-v1.3.0
 --platform=linux/arm64 calico/node:v3.19.4
 
