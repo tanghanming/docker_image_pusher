@@ -1,6 +1,7 @@
 nginx
 mikefarah/yq:2.4.2
 multiarch/qemu-user-static:register
+calico/go-build:latest-amd64
 calico/bpftool:v5.3-amd64
 goboring/golang:1.16.7b7
 k8s.gcr.io/build-image/kube-cross:v1.15.5-1
