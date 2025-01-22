@@ -1,6 +1,7 @@
 nginx
 mikefarah/yq:2.4.2
 multiarch/qemu-user-static:register
+calico/bpftool:v5.3-amd64
 k8s.gcr.io/build-image/kube-cross:v1.15.5-1
 k8s.gcr.io/build-image/go-runner:buster-v2.2.2
 k8s.gcr.io/build-image/debian-iptables:buster-v1.3.0
