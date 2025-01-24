@@ -3,8 +3,8 @@ mikefarah/yq:2.4.2
 multiarch/qemu-user-static:register
 calico/go-build:latest-amd64
 calico/bpftool:v5.3-amd64
+calico/go-build:v0.51
 goboring/golang:1.16.7b7
-fedora:latest
 k8s.gcr.io/build-image/kube-cross:v1.15.5-1
 k8s.gcr.io/build-image/go-runner:buster-v2.2.2
 k8s.gcr.io/build-image/debian-iptables:buster-v1.3.0
